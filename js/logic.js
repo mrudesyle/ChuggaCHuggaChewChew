@@ -68,7 +68,7 @@ $(document).ready(function () {
             .append(`<tr>
                     <td>${ssTrain}</td>
                     <td>${ssDestination}</td>
-                    <td>${ssFirstTrainTime}</td>
+                    <td>${tFrequency}</td>
                     <td>${nextTrain}</td>
                     <td>${tMinutesTillTrain}</td>
             </tr>`)
